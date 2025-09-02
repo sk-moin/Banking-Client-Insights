@@ -1,7 +1,7 @@
 # Banking-Client-Insights
 
 ### Project Overview
-*This project demonstrates a full data pipeline, starting from data cleaning and database management to exploratory data analysis and final visualization in a business intelligence tool.
+This project demonstrates a full data pipeline, starting from data cleaning and database management to exploratory data analysis and final visualization in a business intelligence tool.
 
 ### Technologies Used
 * **Data Cleaning & Preparation:** Microsoft Excel, Python (Pandas)
